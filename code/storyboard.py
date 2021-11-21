@@ -20,8 +20,8 @@ class Storyboard:
     # Path constants for IoTrain-Sim folders
 
     # Global paths
-    IOTRAIN_PATH = "/home/sdn/iotrain-sim/"
-    CONTIKI_PATH = "/home/sdn/contiki/"
+    IOTRAIN_PATH = "/home/user/iotrain-sim/"
+    CONTIKI_PATH = "/home/user/contiki/"
 
     # Relative paths
     IOTRAIN_DATABASE_PATH = IOTRAIN_PATH + "database/"
